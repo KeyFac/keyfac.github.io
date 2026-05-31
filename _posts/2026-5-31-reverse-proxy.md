@@ -11,6 +11,8 @@ description: 参考备忘
 https://mp.weixin.qq.com/s/OAWJeeqKJKk4ZSTBEZT0ZA
 https://zhuanlan.zhihu.com/p/2007434677141669352
 https://zhuanlan.zhihu.com/p/1910480368232019589
+https://www.xiaoge.org/archives/dd-linux-system
+https://linux.do/t/topic/210542
 
 ### 反向代理
 https://blog.liushen.fun/posts/dd89adc9/
